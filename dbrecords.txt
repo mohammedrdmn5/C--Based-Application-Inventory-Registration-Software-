@@ -1,0 +1,7 @@
+==========================================================
+product number :1
+product name :milk
+product price :1.5
+product quantity :1
+product barcode :102021111
+the total :1.5
